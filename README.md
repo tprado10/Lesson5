@@ -1,2 +1,2 @@
-# Lesson5
-Sequelize
+
+Using Sequelize
